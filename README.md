@@ -1,8 +1,6 @@
-# Introduction to GitHub
-Name: Charan\
+# Introduction to GitHub and C Programming Language
+>Name: Charan\
 Roll no: 26K-2051
-
-**Introduction to GitHub and C Programming Language:**
 
 **Lab Objectives:**
 1. Introduce students to GitHub and setting up their profile with their first repository.
@@ -19,3 +17,8 @@ Roll no: 26K-2051
 * Introduction to Integrated Development Environment (IDE).
 + Introduction to C-Programming Language (Basic Structure, Inputs and Outputs, Variables, Data types, Format
 specifiers, escape sequences, Precision)
+
+**List of completed Tasks:**\
+-[x]https://scratch.mit.edu/projects/1380452607/editor \
+-[x]https://scratch.mit.edu/projects/1378857302/editor \
+-[x]https://scratch.mit.edu/projects/1375269393/editor
