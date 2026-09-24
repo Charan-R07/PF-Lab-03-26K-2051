@@ -26,3 +26,16 @@
 - **putchar():** Single Character Output — Writes a single character (passed as an integer or char) to the standard output (screen).
 + **fgets():** String Input — Reads a complete line of text from a stream (like standard input) until a newline character is reached or the buffer size limit is met, making it safe against buffer overflows.
 - **puts():** String Output — Prints a null-terminated string to the standard output (screen) and automatically appends a trailing newline (\n).
+##
+
+## 4. Escape Sequences
++ **\t:** Inserts a tab in the text.
+- **\b:** Inserts a backspace in the text.
++ **\n:** Inserts a newline in the text.
+- **\f:** Inserts a form feed in the text.
++ **\\:** Inserts a backslash character in the text.
+##
+
+## 5. Precision
+Floating-point output precision is specified inside the conversion specifier of printf() (or related functions like sprintf() and fprintf()).
+Precision is written as a period (.) followed by an integer, placed between the % symbol and the conversion specifier character (such as f, e, or g).
